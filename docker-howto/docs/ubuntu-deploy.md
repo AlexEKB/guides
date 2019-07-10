@@ -97,7 +97,7 @@
 В инструкции по запуску из докера для каждого проекта указано откуда и какие дампы нужно взять. 
 инструкции по скачиванию дампов:
 
-* [Pulscen](https://github.com/abak-press/pulscen/tree/develop/docker#postgresql)
+* [Pulscen](https://github.com/abak-press/pulscen/tree/master/docker#postgresql)
 * [Blizko](https://github.com/abak-press/blizko/tree/develop/docker#postgresql)
 * [Lookmart](https://github.com/abak-press/lookmart/tree/develop/docker#postgresql)
 
